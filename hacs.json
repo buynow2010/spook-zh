@@ -1,7 +1,7 @@
 {
   "name": "Spook 👻 中文版",
   "content_in_root": false,
-  "filename": "spook",
   "render_readme": true,
-  "homeassistant": "2024.6.0"
+  "homeassistant": "2024.6.0",
+  "domains": ["automation", "binary_sensor", "button", "event", "number", "select", "sensor", "switch", "time"]
 }
