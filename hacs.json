@@ -1,0 +1,7 @@
+{
+  "name": "Spook 👻 中文版",
+  "content_in_root": false,
+  "filename": "spook",
+  "render_readme": true,
+  "homeassistant": "2024.6.0"
+}
