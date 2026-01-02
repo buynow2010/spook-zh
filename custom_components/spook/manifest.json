@@ -1,15 +1,8 @@
 {
   "domain": "spook",
   "name": "Spook",
-  "after_dependencies": [
-    "blueprint",
-    "cloud",
-    "timer",
-    "proximity"
-  ],
-  "codeowners": [
-    "@frenck"
-  ],
+  "after_dependencies": ["blueprint", "cloud", "timer", "proximity"],
+  "codeowners": ["@frenck"],
   "config_flow": true,
   "dependencies": [
     "homeassistant",
@@ -28,5 +21,5 @@
   "iot_class": "local_push",
   "issue_tracker": "https://github.com/frenck/spook/issues",
   "requirements": [],
-  "version": "4.0.1"
+  "version": "0.0.0"
 }
